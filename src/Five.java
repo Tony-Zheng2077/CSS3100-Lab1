@@ -6,7 +6,7 @@ public class Five {
 		System.out.println("I Love Java");
 		System.out.println("I Love Java");
 		System.out.println("I Love Java");
-		System.out.println("I Love qqJava");
+		System.out.println("I Love Java");
 	}
 
 }
